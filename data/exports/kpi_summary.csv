@@ -1,0 +1,10 @@
+Metric,Value,Category
+Total Employees,1470,Overview
+Attrition Rate (%),16.1,Overview
+Avg Monthly Income,6503.0,Compensation
+Avg Age,37.0,Demographics
+Avg Tenure (Years),7.0,Retention
+Avg Job Satisfaction,2.73,Engagement
+Overtime Rate (%),28.3,Workload
+Highest Attrition Dept,Sales (20.6%),Risk
+Highest Risk Factor,Overtime (3x impact),Risk
