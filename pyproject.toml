@@ -1,0 +1,6 @@
+[tool.streamlit]
+# This file configures Streamlit Cloud deployment
+# Deploy from: https://share.streamlit.io/
+
+# Main app file
+entrypoint = "dashboard/app.py"
