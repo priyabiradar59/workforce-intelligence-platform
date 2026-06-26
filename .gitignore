@@ -1,0 +1,30 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (large files — uncomment if dataset is large)
+# data/raw/*.csv
+# data/processed/*.csv
+models/*.pkl
+
+# Distribution
+dist/
+build/
+*.egg-info/
