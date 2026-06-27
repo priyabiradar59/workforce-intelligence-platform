@@ -28,3 +28,4 @@ models/*.pkl
 dist/
 build/
 *.egg-info/
+push-as-priyanka.sh
